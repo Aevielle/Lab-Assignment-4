@@ -13,3 +13,4 @@ HouseKeeping: A service class implementing the HotelService interface, responsib
 Cart: A service class implementing the HotelService interface, responsible for handling luggage cart requests. It includes the requestCart(numberOfCarts) method.
 
 FrontDesk: The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services.
+<img width="887" height="786" alt="image" src="https://github.com/user-attachments/assets/acc36b54-e460-4f98-a946-e9930abe8b45" />
